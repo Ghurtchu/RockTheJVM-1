@@ -75,5 +75,5 @@
 ////  val possibleHTML = possibleConnection
 ////    .flatMap(connection => connection.getSafe("/home"))
 ////  possibleHTML.foreach(renderHTML)
-//  
+//
 //}

@@ -1,4 +1,4 @@
-package lectures.part3sequences
+package lectures.part3fp
 
 object Options extends App {
   // An option is a wrapper for a value that might be present or not (Some(val) or None)

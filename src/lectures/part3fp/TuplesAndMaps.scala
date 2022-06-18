@@ -1,4 +1,4 @@
-package lectures.part3sequences
+package lectures.part3fp
 
 object TuplesAndMaps extends App {
 
