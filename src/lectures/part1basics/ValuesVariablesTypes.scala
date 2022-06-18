@@ -8,7 +8,7 @@ object ValuesVariablesTypes {
     val x: Int = 42
     println(x)
 
-    //    x = 44 <- this is not allowed
+    // x = 44 <- this is not allowed
 
     // type inference, compiler is smart enough to infer type, so types are optional
     val y = 55 // type = Int
