@@ -34,9 +34,7 @@ object ValuesVariablesTypes {
     // variables, that can be reassigned => changed
     var aVariable: Int = 5
     aVariable = 10 // side effects, changing the variable, printing something, etc
-
-
-
+    
   }
-
+  
 }

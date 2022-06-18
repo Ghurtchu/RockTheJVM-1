@@ -83,6 +83,5 @@ object Expressions extends App {
     42
   } // returns 42, thereby the type is Int
 
-  
-
 }
+

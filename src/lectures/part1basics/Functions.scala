@@ -94,4 +94,5 @@ object Functions extends App {
   }
 
   println(isPrime(11))
+
 }
